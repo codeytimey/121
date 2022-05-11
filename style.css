@@ -1,0 +1,13 @@
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(126, 189, 148);
+    line-height: 3;
+    text-align: center;
+  }
+
+  body{
+      background-color:rgb(218, 204, 131);
+  }
